@@ -16,7 +16,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco, gamedev. También ay
 - **[GarchaDex](https://github.com/GOPNIK64/GarchaDex)** — addon de World of Warcraft en Lua.
 - **[La Rosca](https://larosca.ar)** — plataforma editorial: FastAPI + MongoDB, front en Astro + React, desplegada en Vercel.
 - **Overseer** (p) — analista financiero de sólo lectura: FastAPI + MongoDB + DuckDB + Polars, arquitectura hexagonal, cliente Angular + Ionic.
-- **[Flang con Dulce de Leche](https://github.com/MallinLabs/flang-con-ddl)** — plugin VST3 de simulador de amplificador, C++17 sobre JUCE, con un amigo compositor. Público, AGPL-3.0.
+- **[Flang con Dulce de Leche](https://github.com/MallinLabs/flang-con-ddl)** — plugin VST3 de simulador de amplificador, C++17 sobre JUCE. Público, AGPL-3.0.
 - **campana-v2** (p) — motor y simulador de campaña de rol en TypeScript: D&D 5e pelado más homebrew, con sabor a Warcraft.
 - **AGN** (p) — juego 2D en Unity 6 con URP, para la facu.
 - **dudo** (p) — juego de cubilete para la web.
@@ -56,7 +56,7 @@ Outside work I keep exploring languages and projects, and slowly moving into gam
 - **[GarchaDex](https://github.com/GOPNIK64/GarchaDex)** — World of Warcraft addon in Lua.
 - **[La Rosca](https://larosca.ar)** — editorial platform: FastAPI + MongoDB, Astro + React front end, deployed on Vercel.
 - **Overseer** (p) — read-only financial analyst: FastAPI + MongoDB + DuckDB + Polars, hexagonal architecture, Angular + Ionic client.
-- **[Flang con Dulce de Leche](https://github.com/MallinLabs/flang-con-ddl)** — VST3 amp-sim plugin, C++17 on JUCE, built with a composer friend. Public, AGPL-3.0.
+- **[Flang con Dulce de Leche](https://github.com/MallinLabs/flang-con-ddl)** — VST3 amp-sim plugin, C++17 on JUCE. Public, AGPL-3.0.
 - **campana-v2** (p) — RPG campaign engine and simulator in TypeScript: bare D&D 5e plus homebrew, with Warcraft flavour.
 - **AGN** (p) — 2D game in Unity 6 with URP, for a university course.
 - **dudo** (p) — web dice-cup game.
