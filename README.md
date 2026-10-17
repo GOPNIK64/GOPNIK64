@@ -30,7 +30,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco, gamedev. También ay
 
 **Aprendiendo:** ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 
-**Juego y audio:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white) ![JUCE](https://img.shields.io/badge/-JUCE-8DC63F?logo=juce&logoColor=black)
+**Juego y audio:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white) ![JUCE](https://img.shields.io/badge/-JUCE-8DC63F?logo=juce&logoColor=black) ![Ableton](https://img.shields.io/badge/-Ableton-000000)
 
 **Herramientas de IA:** ![DeepSeek Harness](https://img.shields.io/badge/-DeepSeek%20Harness-4D6BFE?logo=deepseek&logoColor=white) ![Hermes](https://img.shields.io/badge/-Hermes-6E56CF) ![opencode](https://img.shields.io/badge/-opencode-1A1A1A)
 
@@ -70,7 +70,7 @@ Outside work I keep exploring languages and projects, and slowly moving into gam
 
 **Still learning:** ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 
-**Game & audio:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white) ![JUCE](https://img.shields.io/badge/-JUCE-8DC63F?logo=juce&logoColor=black)
+**Game & audio:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white) ![JUCE](https://img.shields.io/badge/-JUCE-8DC63F?logo=juce&logoColor=black) ![Ableton](https://img.shields.io/badge/-Ableton-000000)
 
 **AI tooling:** ![DeepSeek Harness](https://img.shields.io/badge/-DeepSeek%20Harness-4D6BFE?logo=deepseek&logoColor=white) ![Hermes](https://img.shields.io/badge/-Hermes-6E56CF) ![opencode](https://img.shields.io/badge/-opencode-1A1A1A)
 
