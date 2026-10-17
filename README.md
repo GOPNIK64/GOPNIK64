@@ -8,7 +8,7 @@ Desarrollador full-stack en Córdoba, Argentina. Trabajo en [CipByte](https://ci
 
 La mayor parte del día trabajo con TypeScript: Angular e Ionic en el front, NestJS y Express en el back, MongoDB como base de datos.
 
-Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev. También ayudo a vibecoders a ordenar sus proyectos — hoy, el ejemplo es [El Rosquero](https://elrosquero.larosca.ar).
+Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 ## Mis proyectos y caprichos
 
@@ -48,7 +48,7 @@ Full-stack developer in Córdoba, Argentina. I work at [CipByte](https://cipbyte
 
 Most of my day is TypeScript: Angular and Ionic on the front, NestJS and Express on the back, MongoDB for data.
 
-Outside work I keep exploring languages and projects, and slowly moving into game dev. I also help vibecoders get their projects in order — right now, the example is [El Rosquero](https://elrosquero.larosca.ar).
+Outside work I keep exploring languages and projects, and slowly moving into game dev.
 
 ## Projects & whims
 
