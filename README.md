@@ -50,7 +50,7 @@ Most of my day is TypeScript: Angular and Ionic on the front, NestJS and Express
 
 Outside work I keep exploring languages and projects, and slowly moving into game dev. I also help vibecoders get their projects in order — right now, the example is [El Rosquero](https://elrosquero.larosca.ar).
 
-## Projects & caprichos
+## Projects & whims
 
 - **[ai-job-search-deepseek](https://github.com/GOPNIK64/ai-job-search-deepseek)** — first port of `ai-job-search` to DeepSeek Harness (`dsh`), listed in the community fork index. Generated port layer with a drift test.
 - **[GarchaDex](https://github.com/GOPNIK64/GarchaDex)** — World of Warcraft addon in Lua.
