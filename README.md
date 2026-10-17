@@ -38,7 +38,6 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 - 📧 naumannthostrupivan@gmail.com
 - 🌐 [larosca.ar](https://larosca.ar)
-- 💻 [github.com/GOPNIK64](https://github.com/GOPNIK64)
 
 ---
 
@@ -78,4 +77,3 @@ Outside work I keep exploring languages and projects, and slowly moving into gam
 
 - 📧 naumannthostrupivan@gmail.com
 - 🌐 [larosca.ar](https://larosca.ar)
-- 💻 [github.com/GOPNIK64](https://github.com/GOPNIK64)
