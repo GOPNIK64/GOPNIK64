@@ -13,6 +13,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 ## Mis proyectos y caprichos
 
 - **[ai-job-search-deepseek](https://github.com/GOPNIK64/ai-job-search-deepseek)** — primer port de `ai-job-search` a DeepSeek Harness (`dsh`), en el índice de forks de la comunidad. Capa generada por conversor, con test de deriva.
+- **[calculadora-impuestos-arg](https://github.com/mancommunis/calculadora-impuestos-arg)** — el precio final de compras digitales en Argentina (juegos, streaming, tokens de IA), con impuestos y cotizaciones: motor fiscal en Rust compilado a WASM, servicios y CLI/MCP en Go.
 - **[GarchaDex](https://github.com/GOPNIK64/GarchaDex)** — addon de World of Warcraft en Lua.
 - **[La Rosca](https://larosca.ar)** — plataforma editorial: FastAPI + MongoDB, front en Astro + React, desplegada en Vercel.
 - **Overseer** (p) — analista financiero de sólo lectura: FastAPI + MongoDB + DuckDB + Polars, arquitectura hexagonal, cliente Angular + Ionic.
@@ -52,6 +53,7 @@ Outside work I keep exploring languages and projects, and slowly moving into gam
 ## Projects & whims
 
 - **[ai-job-search-deepseek](https://github.com/GOPNIK64/ai-job-search-deepseek)** — first port of `ai-job-search` to DeepSeek Harness (`dsh`), listed in the community fork index. Generated port layer with a drift test.
+- **[calculadora-impuestos-arg](https://github.com/mancommunis/calculadora-impuestos-arg)** — the final price of digital purchases in Argentina (games, streaming, AI tokens), taxes and exchange rates included: a tax engine in Rust compiled to WASM, services and CLI/MCP in Go.
 - **[GarchaDex](https://github.com/GOPNIK64/GarchaDex)** — World of Warcraft addon in Lua.
 - **[La Rosca](https://larosca.ar)** — editorial platform: FastAPI + MongoDB, Astro + React front end, deployed on Vercel.
 - **Overseer** (p) — read-only financial analyst: FastAPI + MongoDB + DuckDB + Polars, hexagonal architecture, Angular + Ionic client.
