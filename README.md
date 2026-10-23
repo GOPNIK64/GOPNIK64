@@ -6,7 +6,7 @@
 
 Desarrollador full-stack en Córdoba, Argentina. Trabajo en [CipByte](https://cipbyte.io), en sistemas en producción para sus clientes.
 
-Trabajo con TypeScript: Angular e Ionic en el front, Node.js en el back, MongoDB como base de datos.
+Trabajo con TypeScript: Angular e Ionic en el front, Node.js en el back y MongoDB.
 
 Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
@@ -46,7 +46,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 Full-stack developer in Córdoba, Argentina. I work at [CipByte](https://cipbyte.io), on production systems for its clients.
 
-I work with TypeScript: Angular and Ionic on the front, Node.js on the back, MongoDB for data.
+I work with TypeScript: Angular and Ionic on the front, Node.js on the back and MongoDB.
 
 Outside work I keep exploring languages and projects, and slowly moving into game dev.
 
