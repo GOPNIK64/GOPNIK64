@@ -4,9 +4,7 @@
 
 # Hola, soy Ivan
 
-Desarrollador full-stack en Córdoba, Argentina. Trabajo en [CipByte](https://cipbyte.io), en sistemas en producción para sus clientes.
-
-Trabajo con TypeScript, Angular, Node.js y MongoDB.
+Desarrollador full-stack en Córdoba, Argentina, trabajando en [CipByte](https://cipbyte.io) en sistemas en producción para sus clientes. Stack profesional: TypeScript, Angular, Node.js y MongoDB.
 
 Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
@@ -44,9 +42,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 # Hi, I'm Ivan
 
-Full-stack developer in Córdoba, Argentina. I work at [CipByte](https://cipbyte.io), on production systems for its clients.
-
-I work with TypeScript, Angular, Node.js and MongoDB.
+Full-stack developer in Córdoba, Argentina, working at [CipByte](https://cipbyte.io) on production systems for its clients. Professional stack: TypeScript, Angular, Node.js and MongoDB.
 
 Outside work I keep exploring languages and projects, and slowly moving into game dev.
 
