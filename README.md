@@ -6,7 +6,7 @@
 
 Desarrollador full-stack en Córdoba, Argentina. Trabajo en [CipByte](https://cipbyte.io), en sistemas en producción para sus clientes.
 
-La mayor parte del día trabajo con TypeScript: Angular e Ionic en el front, NestJS y Express en el back, MongoDB como base de datos.
+La mayor parte del día trabajo con TypeScript: Angular e Ionic en el front, Node.js en el back, MongoDB como base de datos.
 
 Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
@@ -25,7 +25,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 ## Herramientas que uso
 
-**Todos los días:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**Todos los días:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 **A veces:** ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?logo=capacitor&logoColor=white) ![OpenAPI](https://img.shields.io/badge/-OpenAPI-85EA2D?logo=swagger&logoColor=black) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
@@ -46,7 +46,7 @@ Fuera del trabajo exploro lenguajes y proyectos; de a poco también, gamedev.
 
 Full-stack developer in Córdoba, Argentina. I work at [CipByte](https://cipbyte.io), on production systems for its clients.
 
-Most of my day is TypeScript: Angular and Ionic on the front, NestJS and Express on the back, MongoDB for data.
+Most of my day is TypeScript: Angular and Ionic on the front, Node.js on the back, MongoDB for data.
 
 Outside work I keep exploring languages and projects, and slowly moving into game dev.
 
@@ -65,7 +65,7 @@ Outside work I keep exploring languages and projects, and slowly moving into gam
 
 ## Tools I reach for
 
-**Every day:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**Every day:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 **Sometimes:** ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?logo=capacitor&logoColor=white) ![OpenAPI](https://img.shields.io/badge/-OpenAPI-85EA2D?logo=swagger&logoColor=black) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
